@@ -197,9 +197,12 @@ class MapViewController: UIViewController, GMSMapViewDelegate{
     @objc func btnMyDirectAction(){
         if let location=location
         {
-            let nearbyCoordinates=CLLocationCoordinate2D(latitude: 51.5089927,
+//            for nearbyLocation in randomNearbyPlaces{
+//            let nearbyCoordinates=CLLocationCoordinate2D(latitude: nearbyLocation.latitude,
+//                                                             longitude: nearbyLocation.longitude)
+             let nearbyCoordinates=CLLocationCoordinate2D(latitude: 51.5089927,
                                                          longitude: -0.1375314)
-            getPolylineRoute(from: location.coordinate, to: nearbyCoordinates)
+                getPolylineRoute(from: location.coordinate, to: nearbyCoordinates)
          }
     }
     
