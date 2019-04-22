@@ -1,0 +1,904 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CqQCGwEAAKsNbhvFTZoezWmhofvN3qW1_EvtkdAVduUZAVJMqub1I4cOHulBHYaF2bMvFWxjGVy8T2Yn_2Xty6MYKQDqS__je8DjzZpgleOhLAXmpwzKxRLK-TzptT_u7hNtV1WFhkj2SkpeB3W3MdpNCgBLeo3EvPUMI2pnSTBqZhs59A3nKdbVixVt1WlHfzihC3CrK8m5r0lNuBU974jX9TSUxrZsQcqLz1QfFmND5o7tId4mw9UeNrG-43QeQdizw9XAWvitIsXoqGWkTeymxOOb0OQ-WheIaxTz7hEjADn3L0oIAh4iZNTzwwKmSWjq8Mxk5DFApTsyo4PdMWo44drH78opu3goHtV_C2iYrUBVTj2g-JSRtoVXycmOfhHPi8WXRBIQk1DF8_NfLuGge1qaUO2RlRoUpSs2M01ncI5dcQdYCOHd-B-nckA",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.5132818,
+               "lng" : -0.07707159999999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5147021302915,
+                  "lng" : -0.07579086970849795
+               },
+               "southwest" : {
+                  "lat" : 51.5120041697085,
+                  "lng" : -0.07848883029150201
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "ca60b9f9bb2b7da7db1a9064f8a31d474b9cdb02",
+         "name" : "Nationwide Building Society",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115851905251566772899/photos\"\u003eToufeeq Warrington\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAABk_rRynhLJNtT8W0pbMt5Z6-JUkG8kuWZEd_b_8PSyRy-wqLuqdZUHvgZTHaFCuQr86UM1PVBydpmfIYCgCXhuAIgjBqPn8dO_L9tp0n7ARo0g5PvCJvQtzyB7vledwrEhBPBvybT9FatMDJLG8_4j8MGhTxtjQ-GJLodFDWwtl1Rx8dmXW6gw",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ3c4ZgU0DdkgR84xBmhpV6Tg",
+         "plus_code" : {
+            "compound_code" : "GW7F+85 City of London, London, United Kingdom",
+            "global_code" : "9C3XGW7F+85"
+         },
+         "rating" : 3.1,
+         "reference" : "ChIJ3c4ZgU0DdkgR84xBmhpV6Tg",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 13,
+         "vicinity" : "1 Aldgate, London"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.5194983,
+               "lng" : -0.08789090000000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.52078683029149,
+                  "lng" : -0.08659721970849796
+               },
+               "southwest" : {
+                  "lat" : 51.5180888697085,
+                  "lng" : -0.08929518029150202
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "0b1141d15bf27091d9779762258096a01ca3b0c1",
+         "name" : "Nationwide Building Society",
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108845017252677744215/photos\"\u003eJavier Cuadriello\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAsRXBRZL4SkMoT1SiwkLnY30Ydgnnzr9UjaX6ZpfnSAnAbONWVcJrJoj86RDg2_kAavobA8CyKl3vrMzMjnXPJnOUR4guHG4wANZSrcV494yoEreE2heMA625CXZ0UlQAEhBbg4PUKODCeUHb8f97mCXkGhRcIKqBJyzTUt7PO1L8nsnZDMvttw",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJoWDoBqwcdkgRMV56CssvDUM",
+         "plus_code" : {
+            "compound_code" : "GW96+QR Finsbury, London, United Kingdom",
+            "global_code" : "9C3XGW96+QR"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJoWDoBqwcdkgRMV56CssvDUM",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 12,
+         "vicinity" : "101/107 Finsbury Square, London"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.51520000000001,
+               "lng" : -0.1545465
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.51657288029151,
+                  "lng" : -0.153103919708498
+               },
+               "southwest" : {
+                  "lat" : 51.51387491970851,
+                  "lng" : -0.155801880291502
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "204820dcd6b36a929fdc0457c4b43dabbce76d4d",
+         "name" : "Nationwide Building Society",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2079,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110952455808970750105/photos\"\u003ePaul Renner\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAGbhvHeKqgCDWVmzz3wCsjgHKMzI0tCQUVxaKPI59w82Du85BUIYmgc8WJ7CXnew0iBErUzQOryXpFmGJ2bXmLh3Z_NqSwB78_4pZSPuHZpMwUkphhH_mmJW1uio-cHjiEhC5of52pTs_F6ZoX9Pd1Mi5GhRweHvpQEjkkGNCswyjcwF_99ZoAA",
+               "width" : 3076
+            }
+         ],
+         "place_id" : "ChIJ93VSMc0adkgR1GshjGg01WI",
+         "plus_code" : {
+            "compound_code" : "GR8W+35 Marylebone, London, United Kingdom",
+            "global_code" : "9C3XGR8W+35"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJ93VSMc0adkgR1GshjGg01WI",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 9,
+         "vicinity" : "46 Portman Square, London"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.5374032,
+               "lng" : -0.1417113
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.53880798029149,
+                  "lng" : -0.140205369708498
+               },
+               "southwest" : {
+                  "lat" : 51.5361100197085,
+                  "lng" : -0.142903330291502
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "9ea9cb177b1a045d5280b7db363956891462f781",
+         "name" : "Nationwide Building Society",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113439084417436571164/photos\"\u003eDale Schultz\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAdoIOdmam5-BrlGtvF-o8UPXWsrbiUJtCxZ6mpnlqxyQj6dku1G7cNgjdV6zHql_RnU9YY8PAeBvXAibNEpl3nKcjmp3GoWscMXSV__0wG-qZGwz3bTJ5Vc4bWFSk4lrBEhCZuI9I-RKvDNezKUvbEyGkGhTi-VYE1aK9M6byGPp3SIYql2_Bsw",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJBzskI-AadkgR8VaHF1n8q5I",
+         "plus_code" : {
+            "compound_code" : "GVP5+X8 Camden Town, London, United Kingdom",
+            "global_code" : "9C3XGVP5+X8"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJBzskI-AadkgR8VaHF1n8q5I",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4,
+         "vicinity" : "125 Camden High Street, London"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.5222966,
+               "lng" : -0.157872
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5236706802915,
+                  "lng" : -0.1563812197084979
+               },
+               "southwest" : {
+                  "lat" : 51.5209727197085,
+                  "lng" : -0.159079180291502
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "63e10a8e40e37274a6bfc468b787c17cc76e0f12",
+         "name" : "Lloyds Bank",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101450330848892550674/photos\"\u003eYiu H Chan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAABKAlvR1FEFv-rBVbbS32LQiAVAcMw5e5nT0qgukcZaayOdBIqk6iFIJnmKl4x_3DoTG99okmqs6ke8Sx61H6pNQ19Gx9NE-c0LkCd2_2YwnmJLyA02qyCU9UgtZMEV8sEhAxh5raQOlSi8fdP7UTLDdsGhToHa-THoO0hDbuuYFBwRXbavhmKg",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJTfzX084adkgR0BwhCGY0gIk",
+         "plus_code" : {
+            "compound_code" : "GRCR+WV Marylebone, London, United Kingdom",
+            "global_code" : "9C3XGRCR+WV"
+         },
+         "rating" : 3.1,
+         "reference" : "ChIJTfzX084adkgR0BwhCGY0gIk",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 16,
+         "vicinity" : "185 Baker Street, London"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.4998782,
+               "lng" : -0.1956012000000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5013055802915,
+                  "lng" : -0.194323869708498
+               },
+               "southwest" : {
+                  "lat" : 51.4986076197085,
+                  "lng" : -0.1970218302915021
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "8aab11f8f31addb947f763edb6ba9ea5b9ff57a2",
+         "name" : "Nationwide Building Society",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104663872419577930582/photos\"\u003eBenjamin B\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAVCg5yrGkgagAPubrNMy-IthABq-iksy2_7xfuLDvY8dFm1ZjQQJfZ69pDr98r8PKq6myK4211an4Oo4ZLngBX4qiAX0VrEFU5d_HQ_FWElTAEAwoeNMFP9Ag9kuxs0WMEhBr3l7Q9N8ngIOurFpx1pNuGhQhgJByQc79YbIzTaE9qL44094r7Q",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJEZvKQ_EPdkgReKK7YBdL5kg",
+         "plus_code" : {
+            "compound_code" : "FRX3+XQ Kensington, London, United Kingdom",
+            "global_code" : "9C3XFRX3+XQ"
+         },
+         "rating" : 3.4,
+         "reference" : "ChIJEZvKQ_EPdkgReKK7YBdL5kg",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 8,
+         "vicinity" : "189 Kensington High Street, London"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.54527419999999,
+               "lng" : -0.1034906
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5466322302915,
+                  "lng" : -0.102021519708498
+               },
+               "southwest" : {
+                  "lat" : 51.5439342697085,
+                  "lng" : -0.104719480291502
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "d3b3e36af5534f57444372065781d56db22a2519",
+         "name" : "Nationwide Building Society",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 648,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100255388573765575211/photos\"\u003eJack Hubbard\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAArLdaP8J0A7K2gUf5fKDaJRmwXfAaJFZ9QwS8lwPUQLTm0u3V2qxSKOKc0K7ZiWuWHP9JPhpoqcO7Epe7u2xxZyVehd76EesU3bJrHED-jC1vTW7nDRwAHc-QTFG4VV2QEhB2ShOwHvKjIn7rNf6zZcoAGhRLeZ6TpdBB9n3PbNcGqsDHMsAy6A",
+               "width" : 1152
+            }
+         ],
+         "place_id" : "ChIJMUcQImUbdkgRF3aJJFWrJBY",
+         "plus_code" : {
+            "compound_code" : "GVWW+4J Highbury, London, United Kingdom",
+            "global_code" : "9C3XGVWW+4J"
+         },
+         "rating" : 4,
+         "reference" : "ChIJMUcQImUbdkgRF3aJJFWrJBY",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 6,
+         "vicinity" : "246 Upper Street, London"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.51002099999999,
+               "lng" : -0.1229842
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.51132233029149,
+                  "lng" : -0.121580669708498
+               },
+               "southwest" : {
+                  "lat" : 51.5086243697085,
+                  "lng" : -0.124278630291502
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "61f9926e5c2686bffd8468a28d678c2c93f059bb",
+         "name" : "Nationwide Building Society",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2304,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111810038264123090237/photos\"\u003eAdam Malinski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAYYx5IlH2HvD8Dp0G82idzjqM05i-YARpUHbpo5HTDYkY88fUUgJuEkN01OIJurgReDdNduyFxJ1i3s-dvoynOmtpvYu_o_Bbdw7X4fvjSyEr9ZY4I8efUeYMdU80-DNkEhCBr3f0PYH0dmFaN0vP1dq6GhRl0MP7tH81fXBHUqNka0WwzGZRVA",
+               "width" : 4096
+            }
+         ],
+         "place_id" : "ChIJBdNuz8sEdkgRrdI1dV_6gHs",
+         "plus_code" : {
+            "compound_code" : "GV6G+2R Charing Cross, London, United Kingdom",
+            "global_code" : "9C3XGV6G+2R"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJBdNuz8sEdkgRrdI1dV_6gHs",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 8,
+         "vicinity" : "415 Strand, London"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.5137821,
+               "lng" : -0.092975
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5151996302915,
+                  "lng" : -0.09159471970849797
+               },
+               "southwest" : {
+                  "lat" : 51.51250166970851,
+                  "lng" : -0.09429268029150203
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "27bcaecc426ec2a36a54952e2b423901a101f7a5",
+         "name" : "Nationwide Building Society",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107759571554034421738/photos\"\u003eDenis Larkin\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAknS8JeuhmuOlD8oxe31HySmpDvo3RMMgYdsenrbYbrHN-bSCv5praPER0RFK9OKKOTkWf2b3XZM6xdbITOhS_WiWt0NCxBA82x5bLAvLs8LfYHdqpI3LoXhUSBKWLKb_EhAJgshUpzsV9xqWcr-cOI4_GhQPFoy54mK82CydieEbeGEkqAJ_fw",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJB37JQ1UDdkgRdDz0tzmwDU4",
+         "plus_code" : {
+            "compound_code" : "GW74+GR City of London, London, United Kingdom",
+            "global_code" : "9C3XGW74+GR"
+         },
+         "rating" : 3.2,
+         "reference" : "ChIJB37JQ1UDdkgRdDz0tzmwDU4",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 12,
+         "vicinity" : "62/63 Cheapside, London"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.5179536,
+               "lng" : -0.1150899
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.51939598029149,
+                  "lng" : -0.113762969708498
+               },
+               "southwest" : {
+                  "lat" : 51.5166980197085,
+                  "lng" : -0.116460930291502
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "a00d4ecc6b678b5f90e5ec5cca8646298d03ad87",
+         "name" : "Nationwide Building Society",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2577,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117061936361351202474/photos\"\u003ePradeep Singh\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAgdF_k4Vwo8hvnRs0J1PiOuxVnqeQ1faMtNLQQrNxX6P1ZavzzWAYORHuvid22r2UI9tH6ceJSdBMUR49VOpIy3_qq8dga-4wz-is9dUvtR14nTEvgaXmCZcLa6_ydEiwEhCIPwPCu9l49an01w-dniQKGhQWLYZ3xaVyJW8aw61LRlfcVn43fQ",
+               "width" : 3436
+            }
+         ],
+         "place_id" : "ChIJcUeJ2LIEdkgRRX163MMQARw",
+         "plus_code" : {
+            "compound_code" : "GV9M+5X Holborn, London, United Kingdom",
+            "global_code" : "9C3XGV9M+5X"
+         },
+         "rating" : 2.1,
+         "reference" : "ChIJcUeJ2LIEdkgRRX163MMQARw",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 11,
+         "vicinity" : "289 High Holborn, London"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.51193860000001,
+               "lng" : -0.0795149
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5134355302915,
+                  "lng" : -0.07829341970849796
+               },
+               "southwest" : {
+                  "lat" : 51.5107375697085,
+                  "lng" : -0.08099138029150203
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "9d8c1fe22df34e5ab59593766a0a29d07addf1f8",
+         "name" : "HSBC Bank plc",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105143376399487855521/photos\"\u003ecláudio heine\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA1majhXNFYQEoNajiJ2IZMZqa_npKI5349vROPVjCnMrsHLpndTwkssNo6IOL3-bnzP8phczDyarH-zFYGpovK098y0wwU9Z0-gZ5PNPrSNDMquOPvVN0HwQSyIlhWw0SEhAgfLpCLxJsEyeMXB-FMu4GGhTDwtdLunkp0sbseW_oYKrRBAPbqw",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJF24FPa0cdkgRT8KaV5SKMWU",
+         "plus_code" : {
+            "compound_code" : "GW6C+Q5 City of London, London, United Kingdom",
+            "global_code" : "9C3XGW6C+Q5"
+         },
+         "rating" : 3.2,
+         "reference" : "ChIJF24FPa0cdkgRT8KaV5SKMWU",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 26,
+         "vicinity" : "60 Fenchurch Street, London"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.508996,
+               "lng" : -0.125162
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5104278302915,
+                  "lng" : -0.124174919708498
+               },
+               "southwest" : {
+                  "lat" : 51.50772986970851,
+                  "lng" : -0.126872880291502
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "0ce56c552356c5c0ab8a939969ba3cd8cbe327b9",
+         "name" : "Coutts",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1198,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116624530355147484858/photos\"\u003e49 Hokkai\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAApmeWKVmpTS9d74GZXh8Ul4aZLNvPzgSPXuV1l1cSJQ0UXyXroGeah8NMya7zOXA0N_XjQVSe-9TxG5jphQha_5a9X87D4ZLl_BnmuVRCmVB61B8QdE2QVef85fCw-4yMEhDuUh1mQNA1I3hjhsXP4mvaGhTTriavgGN6uR0PVB4IRQMC9s71bg",
+               "width" : 800
+            }
+         ],
+         "place_id" : "ChIJH1D0jtQadkgRmLkZ5tQG4dY",
+         "plus_code" : {
+            "compound_code" : "GV5F+HW Charing Cross, London, United Kingdom",
+            "global_code" : "9C3XGV5F+HW"
+         },
+         "rating" : 4,
+         "reference" : "ChIJH1D0jtQadkgRmLkZ5tQG4dY",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 22,
+         "vicinity" : "440 Strand, London"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.5227174,
+               "lng" : -0.0874061
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5241203802915,
+                  "lng" : -0.08605681970849796
+               },
+               "southwest" : {
+                  "lat" : 51.5214224197085,
+                  "lng" : -0.08875478029150202
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "ed400ea831af2478ed8fcac8d3e5a54eb820e6d6",
+         "name" : "Bank Of Baroda",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117643615638360858810/photos\"\u003eAmy Boyd\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAPQABKSLI0_E0ST0Nw2Ns60Ae53m08g2GrVwJB-6InbYUOwXF6L2M6cSMtOLr_wgygdn0YYsY3r0kUVOd4xieM_lrrXv4Pc-LWbgXvXfYtu816ii5FX3K_YnLtygUnWj4EhASuoyAr1E6s9SFYIdI6tOnGhTqU1k25xSBmlHuI9p3-gFc96-D2Q",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJi_v-1q4cdkgRTuRQatw4uPQ",
+         "plus_code" : {
+            "compound_code" : "GWF7+32 Shoreditch, London, United Kingdom",
+            "global_code" : "9C3XGWF7+32"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJi_v-1q4cdkgRTuRQatw4uPQ",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 9,
+         "vicinity" : "32 City Road, London"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.51392870000001,
+               "lng" : -0.08835809999999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5151523302915,
+                  "lng" : -0.08691886970849796
+               },
+               "southwest" : {
+                  "lat" : 51.5124543697085,
+                  "lng" : -0.08961683029150203
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "f7e4f0f0449350948104bbdcbb46b3c4a555bf91",
+         "name" : "Bank of England",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 722,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111030736457246356845/photos\"\u003eBank of England\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAbt2Mj7UvB-VhjzySqLERGy_cPSZLZq8Yrtu-BRWF4lc3aNx-AZs_-LWYl2NPhS5w3b5VssSYntWaY2K6KNCEqPP0bDQD43At20mO7eRRk4FIASb8_dQAA35n99P3EcqTEhCggg4sCioj9VwpT6S2MH0XGhSzmcn8uHRi1FB2vAt1vT-1aLprHQ",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJ08o_oFQDdkgRdqtBg8Im3EY",
+         "plus_code" : {
+            "compound_code" : "GW76+HM City of London, London, United Kingdom",
+            "global_code" : "9C3XGW76+HM"
+         },
+         "rating" : 4,
+         "reference" : "ChIJ08o_oFQDdkgRdqtBg8Im3EY",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 197,
+         "vicinity" : "Threadneedle Street, London"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.53464819999999,
+               "lng" : -0.1053101
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5359291802915,
+                  "lng" : -0.103775269708498
+               },
+               "southwest" : {
+                  "lat" : 51.5332312197085,
+                  "lng" : -0.106473230291502
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "9e92f3e696dd8a75ba540fad2587dccc65ea670d",
+         "name" : "Nationwide Building Society",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113439084417436571164/photos\"\u003eDale Schultz\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAOQLxuF4gui82mDmXakIzj0S2a2LMuY8RLdDo2q0yzkLI8J7IugRB4ClPd9bYaNV0AtlbdSXXEmHfPXzuoId9QUVrA4kwLmQrVEl5Pj7bDF7yh2vCWbGB_8DGVovGC7O_EhBYsaGKcj-IzN3iBcVMlyAiGhRsjiU0iwXdLg_dTYl5wkxjpbcb9A",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJQUtcSF0bdkgRby6B3VUenLM",
+         "plus_code" : {
+            "compound_code" : "GVMV+VV Islington, London, United Kingdom",
+            "global_code" : "9C3XGVMV+VV"
+         },
+         "rating" : 3.4,
+         "reference" : "ChIJQUtcSF0bdkgRby6B3VUenLM",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 9,
+         "vicinity" : "32-33 Upper Street, London"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.5158254,
+               "lng" : -0.08384659999999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.51719323029149,
+                  "lng" : -0.08256786970849796
+               },
+               "southwest" : {
+                  "lat" : 51.5144952697085,
+                  "lng" : -0.08526583029150203
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "e2bdacf42cc4e5029704ee121d2d19169baef7d0",
+         "name" : "Halifax",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111030208344994952921/photos\"\u003eLee Jacques\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAX3Iyoosqi20fd7I_az9dFnqbFH10iixfZoh39a0ha85ZI3JtAZ8UVyiim2ApNkQ4NlcjciuNbZCO_w2mGFBvG36yCCPHvmT3k9STOGd8rqH13G6HTz5e62TEh4qxwv_kEhDe7YbXIbVa_1Zr88Nui5dhGhQ_y4tv5wBbhqAtkpWVAkgigxNvsQ",
+               "width" : 1960
+            }
+         ],
+         "place_id" : "ChIJY_E1R60cdkgRRkah-j-p6DY",
+         "plus_code" : {
+            "compound_code" : "GW88+8F City of London, London, United Kingdom",
+            "global_code" : "9C3XGW88+8F"
+         },
+         "rating" : 3,
+         "reference" : "ChIJY_E1R60cdkgRRkah-j-p6DY",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 6,
+         "vicinity" : "33 Old Broad Street, London"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.4935284,
+               "lng" : -0.0998013
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.49479238029149,
+                  "lng" : -0.09850081970849797
+               },
+               "southwest" : {
+                  "lat" : 51.49209441970849,
+                  "lng" : -0.101198780291502
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "5db3e22a0e0ce997709df71ad3a068914d25fa61",
+         "name" : "TSB Bank",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117295916966587065792/photos\"\u003eYusuf\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAl_xqwBoqOw2_oPdG_Mk-a5W22K54g_PlTNOLNwX7bCq_lifa4oi1TzmxQOcE0w1OG2uwnbueNAWQg4LG1WhGlIsdTQGMPA2tkenbWjxSu1UlJgsMtdTjP6Hxr4TY8ltYEhCBhXOkUFeXo37yPs8RsxfEGhRzBl31gNcYrjP76Jm_xx2mvWJIKQ",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJNV0B1FcDdkgRUkz-lRxdMH8",
+         "plus_code" : {
+            "compound_code" : "FWV2+C3 Elephant and Castle, London, United Kingdom",
+            "global_code" : "9C3XFWV2+C3"
+         },
+         "rating" : 3,
+         "reference" : "ChIJNV0B1FcDdkgRUkz-lRxdMH8",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 12,
+         "vicinity" : "243-245 Elephant and Castle, London"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.51363860000001,
+               "lng" : -0.081139
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5149300302915,
+                  "lng" : -0.07980301970849799
+               },
+               "southwest" : {
+                  "lat" : 51.5122320697085,
+                  "lng" : -0.08250098029150205
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "a8f96f627f0c9a57f2dcce2d8db9f97949375242",
+         "name" : "Lloyds Bank",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2592,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112365520696864507617/photos\"\u003eWMM1966\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAkJDaUbe8yQgXzcY9qo3xnmDT3jOg6JjraEljBIKDq2iq3N2k-6FxMDhzdIreZq6-Px4VX0fkL80xHXrWILRPHOov4nGZPCdY1UKxcMTn63Rb41A96XVjWkjPGfrt235iEhCgfpHdhfSSHj5jyBuhmCUYGhTTJBR1mXGMLMh25dQGLNn9J3lUvQ",
+               "width" : 3888
+            }
+         ],
+         "place_id" : "ChIJ7V2NwqwEdkgRVDlKXn6wnBg",
+         "plus_code" : {
+            "compound_code" : "GW79+FG City of London, London, United Kingdom",
+            "global_code" : "9C3XGW79+FG"
+         },
+         "rating" : 3.6,
+         "reference" : "ChIJ7V2NwqwEdkgRVDlKXn6wnBg",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 14,
+         "vicinity" : "113-116 Leadenhall Street, London"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.50973700000001,
+               "lng" : -0.1449996
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.51105763029151,
+                  "lng" : -0.143709969708498
+               },
+               "southwest" : {
+                  "lat" : 51.50835966970851,
+                  "lng" : -0.146407930291502
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "838fee1bfba565922c356666f8c7f67cab5e03ab",
+         "name" : "Lloyds Bank",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113259531383472986599/photos\"\u003eAinan &amp; leo\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA2brcddGpTN6ieYs2zqhe-jZQ36Yr503Z8HzyPcHlPusGWv_ON-SSgG_cjNEjK3A6kpR01hbPSODTFMFiL81xTg1eSBQQepPZf9xG1OKpXQo4Nzy_YZ9hJ9l05GUdNRhwEhChbVW5RvFDJIXE7tiuP990GhRSdLbSf1a0ACUS1xEFbAAJOvMAyQ",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJD8LhYSkFdkgRgMGt5Qjgepc",
+         "plus_code" : {
+            "compound_code" : "GV54+V2 Mayfair, London, United Kingdom",
+            "global_code" : "9C3XGV54+V2"
+         },
+         "rating" : 2.2,
+         "reference" : "ChIJD8LhYSkFdkgRgMGt5Qjgepc",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 13,
+         "vicinity" : "Berkeley Square House, 14 Berkeley Square, London"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 51.5089927,
+               "lng" : -0.1375314
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.5102888802915,
+                  "lng" : -0.136140819708498
+               },
+               "southwest" : {
+                  "lat" : 51.5075909197085,
+                  "lng" : -0.138838780291502
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "72023fed11e0ea2f3fa6ed68a9a6c061330861cf",
+         "name" : "Lloyds Bank plc",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2268,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102161591935720331465/photos\"\u003eJames Stokell\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA9C5ATkQTjY6lpqSDrPkl05o_FcKy0Dr1OlUCXrQ4pJj4VhnvzyqZ6QCKLtgERJm3pbtZM46iXxNonfZf3i7s21McUlc1OJ-MbG2Vp7swN0V-uTWhAj54YPbpXDN13-wIEhD5f_HqE1NntuW5wI73Gp4DGhSMhyxr84Ibivx91iuOV-tXbGtNiw",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ__xtj9YEdkgRGW6_KpVchuQ",
+         "plus_code" : {
+            "compound_code" : "GV56+HX Mayfair, London, United Kingdom",
+            "global_code" : "9C3XGV56+HX"
+         },
+         "rating" : 2.4,
+         "reference" : "ChIJ__xtj9YEdkgRGW6_KpVchuQ",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 18,
+         "vicinity" : "39 Piccadilly, London"
+      }
+   ],
+   "status" : "OK"
+}

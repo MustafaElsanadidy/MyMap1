@@ -190,6 +190,10 @@ class MapViewController: UIViewController, GMSMapViewDelegate{
                         randomNearbyPlaces.append(nearbyPlace)
                         marker.position = CLLocationCoordinate2D(latitude: nearbyPlace.latitude, longitude: nearbyPlace.longitude)
                         marker.map = self.myMapView
+                    if i==10{
+                        myMapView.isMyLocationEnabled=true
+                        myMapView.settings.myLocationButton=true
+                    }
                 }
             }
     
