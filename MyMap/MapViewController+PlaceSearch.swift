@@ -149,7 +149,6 @@ extension  MapViewController{
                     if let data=data,
                         let jsonDictionary = self.parse(json: data){
                         DispatchQueue.main.async {
-                            self.isLoading=false
                             let index=self.segmentControl.selectedSegmentIndex
                             self.nearbyPlaces = self.parse(dictionary: jsonDictionary, index: index)
                             print("\(self.nearbyPlaces.count)")
@@ -179,7 +178,6 @@ extension  MapViewController{
                 else{ print("Failure! \(response!)")}
                 
                 DispatchQueue.main.async {
-                    self.isLoading=false
                     self.showNetworkError()
                 }
             }

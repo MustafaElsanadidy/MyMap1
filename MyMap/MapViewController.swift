@@ -29,15 +29,12 @@ class MapViewController: UIViewController, GMSMapViewDelegate{
     var nearbyPlaces=[NearbyPlace]()
     var allNearbyPlaces=[NearbyPlace]()
     var randomNearbyPlaces=[NearbyPlace]()
-    var hasSearched = false
-    var isLoading=false
     var dataTask:URLSessionDataTask?
     
     var dataTask2:URLSessionDataTask?
     
     var customMarkerWidth=50
     var customMarkerHeight=50
-    var endLocation=CLLocation(latitude: -33.86, longitude: 151.20)
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -123,7 +120,7 @@ class MapViewController: UIViewController, GMSMapViewDelegate{
     
     
     var myMapView: GMSMapView = {
-        let camera = GMSCameraPosition.camera(withLatitude: -33.86, longitude: 151.20, zoom: 6.0)
+        let camera = GMSCameraPosition.camera(withLatitude: -33.86, longitude: 151.20, zoom: 9.9)
         let mapView = GMSMapView.map(withFrame: CGRect.zero, camera: camera)
         
         // Creates a marker in the center of the map.
@@ -190,9 +187,11 @@ class MapViewController: UIViewController, GMSMapViewDelegate{
                         randomNearbyPlaces.append(nearbyPlace)
                         marker.position = CLLocationCoordinate2D(latitude: nearbyPlace.latitude, longitude: nearbyPlace.longitude)
                         marker.map = self.myMapView
-                    if i==10{
-                        myMapView.isMyLocationEnabled=true
-                        myMapView.settings.myLocationButton=true
+                    if i==9{
+                        if let location = location{
+                            let marker = GMSMarker()
+                        marker.position = CLLocationCoordinate2D(latitude: location.coordinate.latitude, longitude: location.coordinate.longitude)
+                        }
                     }
                 }
             }
@@ -201,13 +200,14 @@ class MapViewController: UIViewController, GMSMapViewDelegate{
     @objc func btnMyDirectAction(){
         if let location=location
         {
-//            for nearbyLocation in randomNearbyPlaces{
-//            let nearbyCoordinates=CLLocationCoordinate2D(latitude: nearbyLocation.latitude,
-//                                                             longitude: nearbyLocation.longitude)
-             let nearbyCoordinates=CLLocationCoordinate2D(latitude: 51.5089927,
-                                                         longitude: -0.1375314)
+            let nearbyLocation=randomNearbyPlaces.last!
+            let nearbyCoordinates=CLLocationCoordinate2D(latitude: nearbyLocation.latitude,
+                                                             longitude: nearbyLocation.longitude)
+//             let nearbyCoordinates=CLLocationCoordinate2D(latitude: 51.5089927,
+//                                                         longitude: -0.1375314)
                 getPolylineRoute(from: location.coordinate, to: nearbyCoordinates)
-         }
+            
+        }
     }
     
     @objc func segmentChange(_ sender:UISegmentedControl){

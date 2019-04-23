@@ -11,7 +11,7 @@ import GoogleMaps
 import GooglePlaces
 
 
-let apiKey="AIzaSyDvw1dLsamTVmAwlM3hRcncKrqDMRqCsT8"
+let apiKey="AIzaSyAGV-RXflHFnF1BhsveeRl4HyblVvWAVUA"
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
