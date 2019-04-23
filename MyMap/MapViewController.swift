@@ -189,8 +189,9 @@ class MapViewController: UIViewController, GMSMapViewDelegate{
                         marker.map = self.myMapView
                     if i==9{
                         if let location = location{
-                            let marker = GMSMarker()
-                        marker.position = CLLocationCoordinate2D(latitude: location.coordinate.latitude, longitude: location.coordinate.longitude)
+                            let marker2 = GMSMarker()
+                        marker2.position = CLLocationCoordinate2D(latitude: location.coordinate.latitude, longitude: location.coordinate.longitude)
+                            marker2.map=myMapView
                         }
                     }
                 }
